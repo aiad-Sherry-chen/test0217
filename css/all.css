@@ -1,0 +1,10 @@
+img{
+    opacity: 0.3;
+}
+img:hover{
+    opacity: 1;
+}
+
+.caat{
+    text-align: center;
+}
